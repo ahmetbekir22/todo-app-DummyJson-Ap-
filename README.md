@@ -1,16 +1,24 @@
-# todo_app
+# Todo-App
 
-A new Flutter project.
+Todo app with flutter.In this version ı use DummyJSON Apı. apı doesn't allow user to create new todos but in my application when new todos has been created it can be seen from console. 
 
-## Getting Started
+##API Address
+```bash
+https://dummyjson.com/docs/todos#todos-limit_skip
+```
 
-This project is a starting point for a Flutter application.
+## Installation
 
-A few resources to get you started if this is your first Flutter project:
+```bash
+git clone [https://github.com/ahmetbekir22/todo-app-flutter.git](https://github.com/ahmetbekir22/todo-app-with-fake-API.git)
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Usage
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+flutter pub get
+```
+```bash 
+flutter run 
+```
+
